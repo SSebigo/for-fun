@@ -1,0 +1,9 @@
+[package]
+name = "rain"
+version = "0.1.0"
+authors = ["SSebigo <grezesfrancois@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+term = "0.5.1"
+rand = "0.6.1"
